@@ -1,4 +1,4 @@
-# Вёрстка макета Frelancer-Kelvin
+# Вёрстка макета Freelancer-Kelvin
 
 ### Пробую верстать
 
